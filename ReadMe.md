@@ -6,14 +6,7 @@ This repository contains a collection of folders, each representing a different 
 
 - `NetworkingAdap`: This folder contains code for listing network adapters.
 
-## Listing Network Adapters
 
-To list the network adapters using the code in the `NetworkingAdap` folder, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/NetworkingWithC.git`
-2. Navigate to the `NetworkingAdap` folder: `cd NetworkingAdap`
-3. Compile the code: `make`
-4. Run the program: `./program_name`
 
 ## Getting Started
 
